@@ -1,0 +1,5 @@
+﻿  FileName.c
+C:\Users\Administrator\source\repos\Project4\FileName.c(40,11): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Project4\FileName.c(64,1): warning C4716: 'sin_n': must return a value
+C:\Users\Administrator\source\repos\Project4\FileName.c(88,1): warning C4716: 'triangle': must return a value
+  Project4.vcxproj -> C:\Users\Administrator\source\repos\Project4\x64\Debug\Project4.exe
